@@ -23,7 +23,7 @@
     "connected-react-router": "^6.4.0",
     "history": "^4.9.0",
     "nanoid": "^2.0.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "primeicons": "^1.0.0",
     "primereact": "^3.1.2",
     "react": "^16.8.5",
